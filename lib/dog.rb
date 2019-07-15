@@ -22,5 +22,6 @@ class Dog
   
 end
 
-shane = Dog.new("Shane", "Cocker Spaniel")
+fido.instance_variable_set(:@name, "Fido") 
+puts fido.name
 
