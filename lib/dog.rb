@@ -23,7 +23,7 @@ class Dog
   
 end
 
-shane = Dog.new
-puts shane.name
+
+
 
 
