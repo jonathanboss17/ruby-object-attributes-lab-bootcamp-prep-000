@@ -22,6 +22,6 @@ class Dog
   
 end
 
-fido.instance_variable_set(:@name, "Fido") 
+fido.instance_variable_set(@name, "Fido") 
 puts fido.name
 
