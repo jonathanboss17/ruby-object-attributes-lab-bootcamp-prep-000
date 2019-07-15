@@ -21,3 +21,5 @@ class Dog
   end
   
 end
+
+shane = Dog.new 
