@@ -23,5 +23,4 @@ class Dog
 end
 
 shane = Dog.new("Shane", "Cocker Spaniel")
-shane.name = "Boo"
-puts shane.name
+puts shane.breed
